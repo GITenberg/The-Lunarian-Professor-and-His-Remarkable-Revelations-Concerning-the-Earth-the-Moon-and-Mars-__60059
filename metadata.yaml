@@ -1,0 +1,30 @@
+_repo: The-Lunarian-Professor-and-His-Remarkable-Revelations-Concerning-the-Earth-the-Moon-and-Mars-__60059
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alexander, James B. (James Bradun)
+    birthdate: 1831
+    deathdate: 1914
+    gutenberg_agent_id: '50764'
+    url: http://www.gutenberg.org/2009/agents/50764
+description: ''
+gutenberg_issued: '2019-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60059'
+  lccn: 09010024
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Utopias -- Fiction'
+- GITenberg
+title: 'The Lunarian Professor and His Remarkable Revelations Concerning the Earth,
+  the Moon and Mars
+
+  Together with An Account of the Cruise of the Sally Ann'
+url: http://www.gutenberg.org/ebooks/60059
